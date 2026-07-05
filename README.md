@@ -15,6 +15,6 @@ CalliOpeNLP Interface Screenshot
 <img width="1127" height="719" alt="image" src="https://github.com/user-attachments/assets/46b020cf-208d-4cc6-ab11-ec0edb9176ce" />
 
 /////// 
-CalliOpeNLP Voice Report Screeenshot
+CalliOpeNLP Voice Report Screenshot
 /////// 
 <img width="786" height="690" alt="image" src="https://github.com/user-attachments/assets/de6b7b22-6998-49a6-a37d-b3e88fbdd21b" />
