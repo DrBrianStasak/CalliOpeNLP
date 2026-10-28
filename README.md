@@ -5,6 +5,13 @@ The original CalliOpeNLP (v1) includes computer-generated spoken-text instructio
 
 In ancient Greek mythology, Calliope was the 'Muse of Eloquence and Epic Poetry', and her name meant 'beautifully-voiced'. Hence, the wordplay on Calliope, open-source, and natural language processing (NLP).
 
+A few things you will need to run the code:
++ Python Version 3.8+
++ IDE like PyCharm or Juypter to run it in (yes, working on GUI-version)
++ Download the CalliOpeNLP code/s with the 2 example WAVs
++ Download specific common toolkits per listed in code (e.g., parselmouth, numpy, faster-whisper, scipy)
++ Sometimes better to run it with WIFI 'off'
+
 Please, reference the following in manuscripts and/or presentations:
 
 Stasak, B., Li, R., Chacon, A., Black, R., & Madill, C., 2026. CalliOpeNLP: A Standalone Digital Health Voice Data Collection Research Tool, In: Proc. INTERSPEECH 2026 (Sept. 28 - Oct. 1), Sydney, NSW – Australia.
